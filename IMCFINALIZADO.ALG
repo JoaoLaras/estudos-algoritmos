@@ -1,6 +1,5 @@
 algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 var
 Peso, Altura,  sp, og1, obg2:Real
 imc: Real
