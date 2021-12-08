@@ -1,9 +1,8 @@
 algoritmo "semnome"
 
 var
-   Peso, Altura,  sp, og1, obg2:Real
+   Peso, Altura :Real
    imc: Real
-   pn1, pn2, sp1, sp2, ob1, ob2, ob3, ob4, magro: Real
 
 inicio
    Escreval ("Ola, Boa tarde, seja bem vindo ao calculo de IMC " )
